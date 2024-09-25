@@ -16,4 +16,7 @@ in .env load
 CEREBRAS_API_KEY = ''
 ```
 
+
+To sign in to the cerebras platform: https://cloud.cerebras.ai/platform/
+
 Latest file: bespoke_agents/doctorpatientnurse_ui.py

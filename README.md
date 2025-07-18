@@ -4,7 +4,7 @@ To test the agent
 ```
 uv venv agent_env
 source agent_env/bin/activate
-uv pip install pyautogen 
+uv pip install ag2 
 uv pip install python-dotenv
 uv pip install gradio
 cd bespoke_agents
